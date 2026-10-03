@@ -1,2 +1,2 @@
 # swaize-media
-Repo for Buffer
+Media assets
