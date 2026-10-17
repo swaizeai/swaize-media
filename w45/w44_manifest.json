@@ -1,0 +1,49 @@
+{
+ "week": "w44",
+ "batch": "A+B",
+ "status": "ready",
+ "items": [
+  {
+   "buffer_post_id": "6ad351380a208cb323175d33",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Mon_S1_model_ranking-a7c3e591.png",
+   "type": "image",
+   "alt": "Face card: Hamed Pasha, Head of Partnerships at Swaize. Monday Model Drop. Three big AI models in seven days. One gets my vote. Claude Haiku 5.5, Mistral Large 4 and Meta's Muse Wonder, ranked for builders. Sources: Anthropic, Mistral and Meta launch pages, 6 to 12 Oct 2026.",
+   "sha256": "c6cd1b3cc2c648087eea3b14d52b5c9a136dc13db4cf5eb0345ba4174a6b29f9"
+  },
+  {
+   "buffer_post_id": "6ad3513aae173d6e00b1119f",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Tue_U1_show_the_check-a7c3e591.pdf",
+   "type": "document",
+   "alt": "10-slide carousel: Developers trust what they can check, so show them the check. 48% of developers trust AI when they can easily check the answer (Stack Overflow 2026). Six shots for a sponsor video: real repo, prompt on screen, run it live, show the diff, let it miss once, let the creator say what they'd still check.",
+   "sha256": "590ac6e34f6b1e5a368835bc43c7f0cca4661dd8ad8f024afbfc89f65ee0d065",
+   "document_title": "Developers trust what they can check",
+   "thumbnail_file": "Tue_U1_show_the_check_cover-a7c3e591.png"
+  },
+  {
+   "buffer_post_id": "6ad3513d938409f1d07fbf39",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Thu_U2_switch_reasons-a7c3e591.png",
+   "type": "image",
+   "alt": "Bar chart: A specific feature came dead last. Reasons 13,144 developers gave for switching AI tools in the past year, Stack Overflow 2026 Developer Survey. Better output quality 25.1%, organisation required it 10.6%, better workflow integration 7.4%, lower cost 6.4%, better agent support 3.7%, another reason 3.6%, old tool too pricey or limited 3.3%, better security or privacy 2.2%, preferred model or provider 2.1%, a specific feature 1.4%.",
+   "sha256": "13cc82de533844d309e8b1007d74d8a6a3050233f075b9907e61a58b1f8faff4"
+  },
+  {
+   "buffer_post_id": "6ad35143ae173d6e00b11459",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Fri_S3_verdict-a7c3e591.png",
+   "type": "image",
+   "alt": "Face card: Hamed Pasha, Head of Partnerships at Swaize. The Engineer's Verdict No. 3. OpenCode 2.0. Upgrade, unless you've built on it. Five tests, public evidence only, no hands-on run.",
+   "sha256": "df79c03741595d64eacb5ff3e8aa23c93ae3ec65d83aaf5198935a5b9f8206d9"
+  },
+  {
+   "buffer_post_id": "6ad35145ae173d6e00b1149f",
+   "channel_id": "6aad28ddea19ca0bde77b3a0",
+   "file": "Thu_U2_switch_reasons-a7c3e591.png",
+   "type": "image",
+   "alt": "Bar chart: A specific feature came dead last. Reasons 13,144 developers gave for switching AI tools in the past year, Stack Overflow 2026 Developer Survey. Better output quality 25.1% at the top, a specific feature 1.4% last.",
+   "sha256": "13cc82de533844d309e8b1007d74d8a6a3050233f075b9907e61a58b1f8faff4"
+  }
+ ]
+}
