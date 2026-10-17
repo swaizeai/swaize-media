@@ -1,0 +1,57 @@
+{
+ "week": "w43",
+ "batch": "A",
+ "status": "ready",
+ "items": [
+  {
+   "buffer_post_id": "6ad28a4bab7421cbc59c1121",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Mon_S1_model_drop-e3b1c7a2.png",
+   "type": "image",
+   "alt": "Face card: Hamed Pasha, Head of Partnerships at Swaize. Headline: 1 million tokens out. Up from 64K. Gemini 4 Argon is now open to Google's paying AI customers. Intro price until 30 Nov. Source: Google blog, 30 Sep and 13 Oct 2026.",
+   "sha256": "6aa25cbb1d17314e1d4f8436d468f956f79607c00f14c92284c1c9fa50012b4b"
+  },
+  {
+   "buffer_post_id": "6ad28a4d8fcd1dd3d7b6533c",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Tue_U1_comments_carousel-e3b1c7a2.pdf",
+   "type": "document",
+   "alt": "10-slide carousel: Read the comments before you pay for the views. Six checks for a creator's comment section, with data from a 2026 study of 9.88 million YouTube comments.",
+   "document_title": "Read the comments before you pay for the views",
+   "sha256": "a86ba8102ed776f78a4cb0b98471ac59171f4cb0164bb9a94bab7eec96e4c8b2"
+  },
+  {
+   "buffer_post_id": "6ad28a52ab7421cbc59c1232",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Wed_S2_prompt_autopsy-e3b1c7a2.png",
+   "type": "image",
+   "alt": "Prompt Autopsy No. 2: 6 words, 5 holes. Before: Fix this code. It doesn't work. Five holes: the error, expected vs actual, the environment, what you tried, the guardrail. After: a structured debugging prompt that asks for the cause first, then the smallest fix as a diff.",
+   "sha256": "c71c87641816eb6e953c0ffaae01621ccddfbc7e85a0bbd3bc6380e7402a6e1f"
+  },
+  {
+   "buffer_post_id": "6ad28a56c19525fddd396ae2",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Thu_U2_creator_spotlight-e3b1c7a2.png",
+   "type": "image",
+   "alt": "Creator Spotlight: what Fireship teaches brands about sponsor reads. Quote from Jeff Delaney, January 2026: We'll keep ads at the end of videos, not in the first 60 seconds like most youtubers. Three lessons: sponsor a format instead of a one-off, let the creator pick the ad slot, expect a no if you don't fit.",
+   "sha256": "77212bf8bf0071b415d10aff4edcf52f1497761804565b9d0d6cf22038e8edc4"
+  },
+  {
+   "buffer_post_id": "6ad28a5cc19525fddd396b43",
+   "channel_id": "6aad28ddea19ca0bde77b3a1",
+   "file": "Fri_S3_verdict-e3b1c7a2.png",
+   "type": "image",
+   "alt": "Face card: Hamed Pasha, Head of Partnerships at Swaize. The Engineer's Verdict No. 2. Codex cloud tasks. Worth a trial, on a leash. Five tests, public evidence only, no hands-on run.",
+   "sha256": "8f7b6aa3ea1e61273ed91a303c967f15284efcff4484da404f8e28009068655f"
+  },
+  {
+   "buffer_post_id": "6ad28a5eab7421cbc59c1305",
+   "channel_id": "6aad28ddea19ca0bde77b3a0",
+   "file": "Tue_U1_comments_carousel-e3b1c7a2.pdf",
+   "type": "document",
+   "alt": "10-slide carousel: Read the comments before you pay for the views. Six checks for a creator's comment section, with data from a 2026 study of 9.88 million YouTube comments.",
+   "document_title": "Read the comments before you pay for the views",
+   "sha256": "a86ba8102ed776f78a4cb0b98471ac59171f4cb0164bb9a94bab7eec96e4c8b2"
+  }
+ ]
+}
