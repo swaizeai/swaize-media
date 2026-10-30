@@ -1,0 +1,66 @@
+/* Wrapper sits inline right after the native Subscribe button */
+.yavg-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+/* Base pill shape matching YouTube's native buttons */
+.yavg-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  padding: 0 16px;
+  border: none;
+  border-radius: 18px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  cursor: pointer;
+  color: #fff;
+  transition: background-color 0.15s ease-in-out;
+  box-shadow: none;
+}
+
+.yavg-btn:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.6);
+  outline-offset: 1px;
+}
+
+/* Idle state: color-coded per button */
+.yavg-btn.yavg-blue.yavg-idle {
+  background-color: #065fd4;
+}
+.yavg-btn.yavg-blue.yavg-idle:hover {
+  background-color: #0b57bf;
+}
+
+.yavg-btn.yavg-purple.yavg-idle {
+  background-color: #7b2ff7;
+}
+.yavg-btn.yavg-purple.yavg-idle:hover {
+  background-color: #6a22df;
+}
+
+/* Working state: grey, wait cursor */
+.yavg-btn.yavg-working {
+  background-color: #909090;
+  cursor: wait;
+}
+
+/* Result state: green */
+.yavg-btn.yavg-result {
+  background-color: #1e8e3e;
+  cursor: default;
+}
+
+/* Error state: red */
+.yavg-btn.yavg-error {
+  background-color: #d93025;
+  cursor: default;
+}
